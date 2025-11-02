@@ -1,8 +1,0 @@
-flask
-flask_sqlalchemy
-flask_login
-flask_bcrypt
-Flask
-flask-login
-bcrypt
-gunicorn
