@@ -1,6 +1,4 @@
 flask
-flask_sqlalchemy
-flask_login
 flask_bcrypt
 Flask==2.0.1
 Flask-Login==0.6.2
